@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-```bash
+
 > whoami
 Golu Raj — Cybersecurity & AI Explorer
 💻 Building AI tools, Discord bots & automation systems
@@ -38,4 +38,4 @@ Golu Raj — Cybersecurity & AI Explorer
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 👁️ Profile Views
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=Goluraj001&icon=5&color=0" /> </p>
-<h3 align="center">💚 Code | Hack | Secure | Repeat 💚</h3> ```
+<h3 align="center">💚 Code | Hack | Secure | Repeat 💚</h3> 
