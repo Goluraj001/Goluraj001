@@ -18,6 +18,7 @@ $ whoami
 → Red Team | Blue Team | Full Spectrum
 → I break systems to understand them. Then I make them unbreakable.
 Current Mission: Becoming a Security Architect who speaks both offense and defense fluently.
+
 🛠️ Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,bash,docker,git,github,cloudflare,aws,react,tailwind,figma&theme=dark&perline=8" /> </p>
 🔴 Red Team — Offensive Security
