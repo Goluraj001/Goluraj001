@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-```bash
+
 $ whoami
 Manoj Kumar
 🔐 Cybersecurity & AI Explorer
