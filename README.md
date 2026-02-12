@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+AI+Explorer;Red+Team+%7C+Blue+Team+Learner;Ethical+Hacker+in+Training;Automation+%26+AI+Developer;Future+Security+Architect" />
 </p>
 
----
-
 ## 🧠 About Me
 
 
@@ -26,7 +24,7 @@ Recon & OSINT fundamentals
 
 Understanding attack surfaces
 
-Exploitation concepts (labs & legal environments)
+Exploitation concepts (labs & legal environments only)
 
 Automation for testing
 
@@ -46,6 +44,15 @@ Good defense starts with understanding offense.
 🧪 Red Team Practice Projects
 🔹 Password Security Analyzer
 Analyzes password strength, hashing & common weaknesses
+
+🔹 Port Scanner (Lab Use Only)
+Understands open ports & services in controlled environments
+
+🔹 Brute Force Simulation (Educational)
+Demonstrates importance of rate-limiting & strong authentication
+
+🔹 Log Analyzer
+Detects suspicious login activity from system logs
 
 🔹 Port Scanner (Lab Use Only)
 Understands open ports & services in controlled environments
