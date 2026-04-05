@@ -1,69 +1,276 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1b2a&height=200&section=header&text=MANOJ%20KUMAR&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=System-Thinking%20AI%20Automation%20%2B%20Cybersecurity%20Engineer&descAlignY=60&descSize=16&descColor=7eb8d4" />
+<!-- TYPING ANIMATION -->
+Show Image
+<!-- BADGES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f0d,100:001a00&height=280&section=header&text=Manoj%20Kumar&fontSize=52&fontColor=00ff99&animation=twinkling&fontAlignY=38&desc=Security%20Architect%20in%20the%20making&descAlignY=58&descSize=18" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00d4ff?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-ff6b35?style=for-the-badge&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/Class-9th%20Student%20→%20Pro%20Engineer-7c3aed?style=for-the-badge&labelColor=0a0a1a" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&vCenter=true&width=780&lines=Red+Team+Operator+%7C+Blue+Team+Guardian;Breaking+things+ethically;Building+AI+that+secures+the+future;Automation+%26+Offensive+Security+Enthusiast;Future+Security+Architect+%F0%9F%9B%A1%EF%B8%8F" />
+  <a href="https://github.com/ManojKumar-ind001">
+    <img src="https://img.shields.io/github/followers/ManojKumar-ind001?label=Follow&style=social" />
+  </a>
+  &nbsp;
+  <a href="mailto:contact@manojinfo.in">
+    <img src="https://img.shields.io/badge/Gmail-contact%40manojinfo.in-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.manojinfo.in">
+    <img src="https://img.shields.io/badge/Portfolio-manojinfo.in-00d4ff?style=flat&logo=firefox&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/golu.650/">
+    <img src="https://img.shields.io/badge/Instagram-golu.650-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
+</div>
 
----
+> whoami
+yamlname        : Manoj Kumar (Golu)
+title       : System-Thinking AI Automation + Cybersecurity Engineer
+location    : Patna, Bihar, India 🇮🇳
+education   : G.D. Goenka Public School, Gaya — Class 9th (2026–2027)
+contact     : contact@manojinfo.in
+website     : https://www.manojinfo.in
+philosophy  : "Automation without security is dangerous.
+               Security without automation doesn't scale."
 
-## 🜁 **WHOAMI**
+I don't just write code — I design living systems.
+My thinking: User → Network → Service → Code → Boundary → Failure Mode
+AI is a decision engine, not magic. I treat it as a service with rate limits, logs, and fallbacks.
 
 
-$ whoami
-→ Manoj Kumar
-→ Cybersecurity & AI Operator
-→ Red Team | Blue Team | Full Spectrum
-→ I break systems to understand them. Then I make them unbreakable.
-Current Mission: Becoming a Security Architect who speaks both offense and defense fluently.
+> mindset --evolution
+<table>
+<tr>
+<td width="50%">
+❌ Old Thinking
 
-🛠️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,bash,docker,git,github,cloudflare,aws,react,tailwind,figma&theme=dark&perline=8" /> </p>
-🔴 Red Team — Offensive Security
-Recon & Advanced OSINT
+"Which tool should I use?"
+"Why is there an error?"
+Feature-focused development
+Treating AI as magic
 
-Attack Surface Mapping
+</td>
+<td width="50%">
+✅ System Thinking NOW
 
-Exploitation & Payload Crafting (legal labs only)
+"Where is the boundary breaking?"
+Flow-centric: User → Network → Service → Code
+AI as a component with failure modes
+Security built-in from day one
 
-Automation of attacks & C2 frameworks
+</td>
+</tr>
+</table>
 
-Social Engineering concepts
+> skills --list
+<div align="center">
+🤖 AI & Intelligence
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🔐 Cybersecurity
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🌐 Full-Stack Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🖥️ Desktop & Low-Level
+Show Image
+Show Image
+Show Image
+Show Image
+⚙️ DevOps & Infrastructure
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-🔵 Blue Team — Defensive Security
-Threat Hunting & Detection Engineering
+> projects --featured
+<details open>
+<summary><b>🧠 EDDY AI — Personal AI Operating System</b></summary>
+<br>
 
-System Hardening & Zero Trust
+"Speak Your Need, EDDY Does the Deed"
 
-SIEM, Logging & Monitoring
+A comprehensive Personal AI OS that automates your digital life. Hybrid architecture: Cloud (Gemini) + Local (Ollama).
 
-Incident Response & Forensics
+🗣️ Hinglish NLP (Hindi + English natural commands)
+⚡ Sub-second voice automation for Windows, WhatsApp, Chrome
+🔀 Local AI = Control + Privacy via Ollama
+🤖 Master Agent delegates to specialized sub-agents
 
-Secure Architecture Design
+Python Gemini API Ollama Voice AI n8n System Automation
+</details>
 
-Philosophy: The best defenders are the ones who think like attackers.
+<details open>
+<summary><b>📡 AI Trend Hunter Pro — Intelligence Platform</b></summary>
+<br>
 
-🔥 Signature Projects
-Project	Description	Status
-Eddy-AI	Advanced AI Discord bot + automation suite	Active
-Cyber-Tools	Collection of offensive & defensive scripts	Growing
-Password Fortress	Password strength analyzer + entropy calculator	Complete
-ShadowPort	Educational port scanner (lab use only)	Complete
-BreachGuard	Log analyzer for detecting suspicious activity	In Progress
-📊 GitHub Intelligence
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Goluraj001&theme=radical&bg_color=0a0f0d&title_color=00ff99&text_color=00ff99&border_color=00ff99&hide_border=true&show_icons=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goluraj001&theme=radical&background=0a0f0d&ring=00ff99&fire=00ff99&border=00ff99&hide_border=true" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goluraj001&theme=radical&bg_color=0a0f0d&title_color=00ff99&text_color=00ff99&border_color=00ff99&hide_border=true&layout=compact" width="40%" /> </p>
-🐍 Contribution Grid
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
-✦ Hacker Mindset
-"Security is not a product, but a process." — Bruce Schneier
+"Predicting viral trends before they happen" | v2.4 Live
 
-My version:
-"Break it. Understand it. Secure it. Repeat."
+Fully automated intelligence scanning the YouTube ecosystem for early viral signals across 21+ niches.
 
-🌐 Connect in the Shadows
-<p align="center"> <a href="https://github.com/Goluraj001"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff99" /></a> <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff99" /></a> <a href="https://discord.gg/yourinvite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> </p>
-💚 Code. Hack. Secure. Evolve. 💚
+📊 Real-time velocity scoring algorithm
+🕵️ Anti-detection scraping on distributed VPS
+📺 Monitoring 20,000+ channels daily
+🔔 Automated alerts & report generation
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff99&height=3&section=footer" /> 
+Python Data Engineering VPS Infrastructure NLP Anti-Detection
+</details>
+
+<details>
+<summary><b>🎓 Starry Vision — EdTech Platform</b></summary>
+<br>
+
+"Democratizing education for Bihar Board students"
+
+Full-stack EdTech platform with 150-day learning roadmap for BSEB curriculum.
+
+🤖 24/7 AI doubt resolution (Gemini/RAG)
+🔐 Enterprise-grade security
+🗺️ Automated learning pathways
+
+Next.js 14 RAG PostgreSQL Prisma AI Integration
+</details>
+
+<details>
+<summary><b>🛡️ Security Intelligence Scanner — Cyber Threat Intel</b></summary>
+<br>
+
+"Your personal SOC feed, continuously running"
+
+Large-scale monitoring tracking 60+ cybersecurity sources hourly.
+
+🔍 AI-powered threat categorization
+🌐 Tracks Reddit, GitHub, Hacker News + more
+⚡ Real-time vulnerability feed + offline fallback
+
+OSINT ML Classification Python Automation
+</details>
+
+<details>
+<summary><b>🔑 GXAI — Remote Access Tool (Security Research)</b></summary>
+<br>
+
+"Secure, encrypted, agent-based control"
+
+Professional-grade remote access platform for IT administration & security research.
+
+🔒 End-to-End Encrypted communication
+📊 Web dashboard with Socket.IO
+📝 Rigorous audit logging + access control
+
+Flask React Docker Socket.IO AES-256
+</details>
+
+<details>
+<summary><b>🎵 Eddy — Premium Discord Bot</b></summary>
+<br>
+
+"The Only Bot Your Server Needs"
+
+All-in-one Discord powerhouse: music + AI + security.
+
+🎶 320kbps Lavalink v4 High-Fidelity Music
+🧠 GPT + Gemini AI reasoning
+🛡️ Military-grade AntiNuke security system
+
+Python Discord.py Lavalink AI Integration
+</details>
+
+> certifications --verified
+#CertificationIssuerVerification🥇Google CybersecurityGoogle / CourseraVerify🥇Google AI EssentialsGoogle / CourseraVerify🥇Python for CybersecurityCourseraVerify🥇Ethical HackingCourseraVerify🥇Cloud Engineer PrepCourseraVerify🥇Microsoft Cybersecurity AnalystMicrosoft / CourseraVerify
+
+> stats --github
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManojKumar-ind001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojKumar-ind001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojKumar-ind001&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKumar-ind001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35" />
+</div>
+
+> current_focus
+pythonclass ManojKumar:
+    def __init__(self):
+        self.name       = "Manoj Kumar (Golu)"
+        self.role       = "System-Thinking AI Automation + Cybersecurity Engineer"
+        self.location   = "Patna, Bihar, India 🇮🇳"
+        self.age        = "Class 9th Student"
+        
+    @property
+    def current_obsession(self):
+        return {
+            "project"  : "Agent of Agents Orchestration",
+            "tech"     : ["n8n", "Autonomous Agents", "LLM Orchestration"],
+            "goal"     : "Master Agent → Specialized Sub-Agents",
+            "scale"    : "Sovereign AI Ecosystem"
+        }
+    
+    @property
+    def tech_stack(self):
+        return {
+            "AI"       : ["Gemini", "Ollama", "RAG", "n8n", "Vector DBs"],
+            "security" : ["AES-256", "OAuth2", "Win32 Hooking", "OSINT"],
+            "frontend" : ["Next.js 14", "React", "TypeScript"],
+            "backend"  : ["Node.js", "Express", "Python", "FastAPI"],
+            "desktop"  : ["C# .NET", "C++", "WinForms", "ImGui"],
+            "devops"   : ["Docker", "Nginx", "PM2", "Linux", "Vercel"]
+        }
+    
+    def philosophy(self):
+        print("Automation without security is dangerous.")
+        print("Security without automation doesn't scale.")
+        print("I don't fix bugs — I understand where boundaries break.")
+
+> connect --with-me
+<div align="center">
+<a href="mailto:contact@manojinfo.in">
+  <img src="https://img.shields.io/badge/Email-contact%40manojinfo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.manojinfo.in">
+  <img src="https://img.shields.io/badge/Portfolio-manojinfo.in-00d4ff?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/ManojKumar-ind001">
+  <img src="https://img.shields.io/badge/GitHub-ManojKumar--ind001-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/golu.650/">
+  <img src="https://img.shields.io/badge/Instagram-golu.650-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br/><br/>
+
+💡 Available for: AI Automation Projects · Security Research · Full-Stack Development · Discord Bot Development
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a1a3e,100:0f0f23&height=120&section=footer&text=Built%20with%20System%20Thinking&fontSize=20&fontColor=00d4ff&fontAlignY=65" />
+"Age doesn't matter — it's the depth of your system thinking and the scale of your automation that defines you."
+Show Image
+</div>
