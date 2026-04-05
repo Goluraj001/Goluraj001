@@ -1,33 +1,50 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a1628,100:0d1b2a&height=220&section=header&text=Manoj%20Kumar&fontSize=60&fontColor=00d4ff&fontAlignY=40&desc=System-Thinking%20AI%20Automation%20%2B%20Cybersecurity%20Engineer&descAlignY=62&descSize=17&descColor=8ab8cc&animation=fadeIn" />
+
 <br/>
-Show Image
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%22Automation+without+security+is+dangerous.%22;%22Security+without+automation+doesn't+scale.%22;Building+Living+Systems+%E2%80%94+Not+Just+Code.;User+%E2%86%92+Network+%E2%86%92+Service+%E2%86%92+Code+%E2%86%92+Boundary)](https://git.io/typing-svg)
+
 <br/>
-Show Image
-Show Image
-Show Image
-Show Image
+
+[![Available for Work](https://img.shields.io/badge/%E2%9C%85%20Status-Available%20for%20Work-00d4ff?style=flat-square&labelColor=0a0a1a)](mailto:contact@manojinfo.in)
+[![Location](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Location-India-ff6b35?style=flat-square&labelColor=0a0a1a)](https://www.manojinfo.in)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-manojinfo.in-7c3aed?style=flat-square&labelColor=0a0a1a)](https://www.manojinfo.in)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Email-contact%40manojinfo.in-red?style=flat-square&labelColor=0a0a1a)](mailto:contact@manojinfo.in)
+
 <br/>
-Show Image
-Show Image
+
+[![GitHub followers](https://img.shields.io/github/followers/ManojKumar-ind001?label=Follow%20on%20GitHub&style=social)](https://github.com/ManojKumar-ind001)
+[![Instagram](https://img.shields.io/badge/Instagram-%40golu.650-E4405F?style=social&logo=instagram)](https://www.instagram.com/golu.650/)
+
 </div>
 
-> whoami
-yamlname        :  Manoj Kumar  (Golu)
+---
+
+## `> whoami`
+
+```yaml
+name        :  Manoj Kumar  (Golu)
 title       :  System-Thinking AI Automation + Cybersecurity Engineer
 location    :  Patna, Bihar, India 🇮🇳
 education   :  G.D. Goenka Public School, Gaya — Class 9th
 contact     :  contact@manojinfo.in
 website     :  https://www.manojinfo.in
 status      :  ✅ Available for Work
+```
 
-💡 I don't just write code — I design living systems.
-My thinking framework: User → Network → Service → Code → Boundary → Failure Mode
-AI is a decision engine, not magic. I treat it as a service with rate limits, logs, and fallbacks.
-Every system I build is security-first, automation-ready, and designed for real-world scale.
+> 💡 I don't just write code — I **design living systems.**
+>
+> My thinking framework: `User → Network → Service → Code → Boundary → Failure Mode`
+>
+> AI is a **decision engine**, not magic. I treat it as a service with rate limits, logs, and fallbacks.
+> Every system I build is security-first, automation-ready, and designed for real-world scale.
 
+---
 
-> mindset --evolution
+## `> mindset --evolution`
+
 <table>
 <tr>
 <th width="50%">❌ Old Thinking</th>
@@ -36,134 +53,216 @@ Every system I build is security-first, automation-ready, and designed for real-
 <tr>
 <td>
 
-"Which tool should I use?"
-"Why is there an error?"
-Feature-focused development
-Treating AI as magic
-Restart the service and hope
+- _"Which tool should I use?"_
+- _"Why is there an error?"_
+- Feature-focused development
+- Treating AI as magic
+- Restart the service and hope
 
 </td>
 <td>
 
-"Where is the boundary breaking?"
-Flow-centric: User → Network → Service → Code
-AI as a component with failure modes
-Security built-in from day one
-Understand the system, fix the root cause
+- _"Where is the **boundary** breaking?"_
+- Flow-centric: `User → Network → Service → Code`
+- AI as a **component** with failure modes
+- Security built-in from day one
+- Understand the system, fix the root cause
 
 </td>
 </tr>
 </table>
 
-> skills --list
-🤖 AI & Intelligence
-TechnologyLevelPython (AI / Automation)████████████ Expertn8n Workflow Orchestration███████████░ AdvancedGoogle Gemini API███████████░ AdvancedOllama — Local LLMs██████████░░ AdvancedRAG Systems + Vector DBs█████████░░░ ProficientPrompt Engineering████████████ ExpertHinglish NLP███████████░ AdvancedOpenRouter / OpenAI APIs█████████░░░ Proficient
-🔐 Cybersecurity
-TechnologyLevelAES-256 End-to-End Encryption████████████ ExpertOAuth 2.0 / JWT Auth██████████░░ AdvancedOSINT Workflows███████████░ AdvancedWin32 Hooking (Python / C++)█████████░░░ ProficientSQLi Prevention + Rate Limiting███████████░ AdvancedThreat Intelligence Aggregation█████████░░░ ProficientAudit Logging Systems████████████ Expert
-🌐 Full-Stack Development
-TechnologyLevelNext.js 14 + React 18███████████░ AdvancedTypeScript██████████░░ AdvancedNode.js + Express.js████████████ ExpertPostgreSQL + Prisma ORM███████████░ AdvancedSocket.IO — Real-time██████████░░ AdvancedREST API Architecture████████████ Expert
-🖥️ Desktop & Low-Level
-TechnologyLevelC# (.NET) WinForms + GDI+█████████░░░ ProficientC++ Modding Architecture████████░░░░ IntermediateImGui Overlays████████░░░░ IntermediateWin32 APIs via P/Invoke█████████░░░ Proficient
-⚙️ DevOps & Infrastructure
-TechnologyLevelDocker + Docker Compose███████████░ AdvancedLinux / Bash Scripting████████████ ExpertNginx + PM2██████████░░ AdvancedGit + Vercel CI/CD████████████ ExpertDistributed VPS Management███████████░ AdvancedPgBouncer Connection Pooling█████████░░░ Proficient
+---
 
-> projects --featured
-🧠 EDDY AI — Personal AI Operating System
+## `> skills --list`
 
-"Speak Your Need, EDDY Does the Deed"  ·  Active
+### 🤖 AI & Intelligence
 
-A comprehensive Personal AI OS that automates your entire digital life using a hybrid Cloud + Local AI architecture.
+| Technology | Level |
+|---|---|
+| Python (AI / Automation) | `████████████` Expert |
+| n8n Workflow Orchestration | `███████████░` Advanced |
+| Google Gemini API | `███████████░` Advanced |
+| Ollama — Local LLMs | `██████████░░` Advanced |
+| RAG Systems + Vector DBs | `█████████░░░` Proficient |
+| Prompt Engineering | `████████████` Expert |
+| Hinglish NLP | `███████████░` Advanced |
+| OpenRouter / OpenAI APIs | `█████████░░░` Proficient |
 
-🗣️ Hinglish NLP — understands natural Hindi + English commands
-⚡ Sub-second voice automation for Windows OS, WhatsApp, Chrome
-🔀 Local AI via Ollama — full control + privacy, no data leaks
-🤖 Master Agent → Sub-Agent delegation architecture
-☁️ Hybrid: Gemini (Cloud) + Ollama (Local) for optimal performance
+### 🔐 Cybersecurity
 
-Python  ·  Gemini API  ·  Ollama  ·  Voice AI  ·  n8n  ·  System Automation
+| Technology | Level |
+|---|---|
+| AES-256 End-to-End Encryption | `████████████` Expert |
+| OAuth 2.0 / JWT Auth | `██████████░░` Advanced |
+| OSINT Workflows | `███████████░` Advanced |
+| Win32 Hooking (Python / C++) | `█████████░░░` Proficient |
+| SQLi Prevention + Rate Limiting | `███████████░` Advanced |
+| Threat Intelligence Aggregation | `█████████░░░` Proficient |
+| Audit Logging Systems | `████████████` Expert |
 
-📡 AI Trend Hunter Pro — Intelligence Platform
+### 🌐 Full-Stack Development
 
-"Predicting viral trends before they happen"  ·  v2.4 Live
+| Technology | Level |
+|---|---|
+| Next.js 14 + React 18 | `███████████░` Advanced |
+| TypeScript | `██████████░░` Advanced |
+| Node.js + Express.js | `████████████` Expert |
+| PostgreSQL + Prisma ORM | `███████████░` Advanced |
+| Socket.IO — Real-time | `██████████░░` Advanced |
+| REST API Architecture | `████████████` Expert |
 
-Fully automated intelligence platform scanning the YouTube ecosystem for early viral signals across 21+ niches.
+### 🖥️ Desktop & Low-Level
 
-📊 Real-time velocity scoring algorithm (velocity > total views)
-🕵️ Anti-detection scraping on distributed VPS infrastructure
-📺 Monitoring 20,000+ channels daily across niches
-🔔 Automated alerts + report generation
+| Technology | Level |
+|---|---|
+| C# (.NET) WinForms + GDI+ | `█████████░░░` Proficient |
+| C++ Modding Architecture | `████████░░░░` Intermediate |
+| ImGui Overlays | `████████░░░░` Intermediate |
+| Win32 APIs via P/Invoke | `█████████░░░` Proficient |
 
-Python  ·  Data Engineering  ·  Distributed VPS  ·  NLP  ·  Anti-Detection Scraping
+### ⚙️ DevOps & Infrastructure
 
-🎓 Starry Vision — Bihar Board EdTech Platform
+| Technology | Level |
+|---|---|
+| Docker + Docker Compose | `███████████░` Advanced |
+| Linux / Bash Scripting | `████████████` Expert |
+| Nginx + PM2 | `██████████░░` Advanced |
+| Git + Vercel CI/CD | `████████████` Expert |
+| Distributed VPS Management | `███████████░` Advanced |
+| PgBouncer Connection Pooling | `█████████░░░` Proficient |
 
-"Democratizing education for Bihar Board students"  ·  Next.js 14 WebApp
+---
 
-Full-stack EdTech platform purpose-built for BSEB curriculum with AI-powered learning.
+## `> projects --featured`
 
-🗺️ 150-Day structured learning roadmap with automated pathways
-🤖 24/7 AI doubt resolution powered by Gemini + RAG
-🔐 Enterprise-grade security architecture
-🏗️ Built for scale — handles real concurrent traffic
+### 🧠 EDDY AI — Personal AI Operating System
+> *"Speak Your Need, EDDY Does the Deed"* &nbsp;·&nbsp; `Active`
 
-Next.js 14  ·  RAG  ·  PostgreSQL  ·  Prisma  ·  Gemini API  ·  TypeScript
-Role: Lead Full-Stack Developer & Technical Architect (2025–2026)
+A comprehensive **Personal AI OS** that automates your entire digital life using a **hybrid Cloud + Local AI architecture.**
 
-🛡️ Security Intelligence Scanner — Cyber Threat Intel
+- 🗣️ **Hinglish NLP** — understands natural Hindi + English commands
+- ⚡ Sub-second voice automation for **Windows OS, WhatsApp, Chrome**
+- 🔀 **Local AI via Ollama** — full control + privacy, no data leaks
+- 🤖 **Master Agent → Sub-Agent** delegation architecture
+- ☁️ Hybrid: **Gemini (Cloud)** + **Ollama (Local)** for optimal performance
 
-"Your personal SOC feed, continuously running"  ·  Enterprise
+`Python` &nbsp;·&nbsp; `Gemini API` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `Voice AI` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `System Automation`
 
-Large-scale monitoring system tracking 60+ cybersecurity sources hourly for emerging threats.
+---
 
-🔍 AI-powered threat categorization and severity scoring
-🌐 Tracks Reddit, GitHub, Hacker News, CVE feeds + more
-⚡ Real-time vulnerability feed with offline fallback + deduplication
+### 📡 AI Trend Hunter Pro — Intelligence Platform
+> *"Predicting viral trends before they happen"* &nbsp;·&nbsp; `v2.4 Live`
 
-OSINT  ·  ML Classification  ·  Python  ·  Automation  ·  Threat Intelligence
+Fully automated intelligence platform scanning the YouTube ecosystem for **early viral signals** across **21+ niches.**
 
-🔑 GXAI — Remote Access Tool
+- 📊 Real-time **velocity scoring algorithm** (velocity > total views)
+- 🕵️ **Anti-detection scraping** on distributed VPS infrastructure
+- 📺 Monitoring **20,000+ channels** daily across niches
+- 🔔 Automated **alerts + report generation**
 
-"Secure, encrypted, agent-based control"  ·  Security Research Tool
+`Python` &nbsp;·&nbsp; `Data Engineering` &nbsp;·&nbsp; `Distributed VPS` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `Anti-Detection Scraping`
 
-Professional-grade remote access platform for IT administration and security research.
+---
 
-🔒 End-to-End Encrypted communication channels (AES-256)
-📊 Web dashboard with Socket.IO real-time control
-📝 Rigorous audit logging + granular access control
+### 🎓 Starry Vision — Bihar Board EdTech Platform
+> *"Democratizing education for Bihar Board students"* &nbsp;·&nbsp; `Next.js 14 WebApp`
 
-Flask  ·  React  ·  Docker  ·  Socket.IO  ·  AES-256 E2EE
-Role: Security Researcher (2024–2025)
+Full-stack EdTech platform purpose-built for **BSEB curriculum** with AI-powered learning.
 
-🎵 Eddy — Premium Discord Bot
+- 🗺️ **150-Day structured learning roadmap** with automated pathways
+- 🤖 **24/7 AI doubt resolution** powered by Gemini + RAG
+- 🔐 Enterprise-grade security architecture
+- 🏗️ Built for scale — handles real concurrent traffic
 
-"The Only Bot Your Server Needs"  ·  Active
+`Next.js 14` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `Gemini API` &nbsp;·&nbsp; `TypeScript`
 
-All-in-one Discord powerhouse combining music + AI reasoning + security.
+*Role: Lead Full-Stack Developer & Technical Architect (2025–2026)*
 
-🎶 320kbps Lavalink v4 high-fidelity music streaming
-🧠 GPT + Gemini AI reasoning and commands
-🛡️ Military-grade AntiNuke security system
+---
 
-Python  ·  Discord.py  ·  Lavalink v4  ·  Gemini API
+### 🛡️ Security Intelligence Scanner — Cyber Threat Intel
+> *"Your personal SOC feed, continuously running"* &nbsp;·&nbsp; `Enterprise`
 
-> certifications --verified
+Large-scale monitoring system tracking **60+ cybersecurity sources hourly** for emerging threats.
+
+- 🔍 **AI-powered threat categorization** and severity scoring
+- 🌐 Tracks Reddit, GitHub, Hacker News, CVE feeds + more
+- ⚡ **Real-time vulnerability feed** with offline fallback + deduplication
+
+`OSINT` &nbsp;·&nbsp; `ML Classification` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Automation` &nbsp;·&nbsp; `Threat Intelligence`
+
+---
+
+### 🔑 GXAI — Remote Access Tool
+> *"Secure, encrypted, agent-based control"* &nbsp;·&nbsp; `Security Research Tool`
+
+Professional-grade **remote access platform** for IT administration and security research.
+
+- 🔒 **End-to-End Encrypted** communication channels (AES-256)
+- 📊 Web dashboard with **Socket.IO real-time** control
+- 📝 Rigorous **audit logging** + granular access control
+
+`Flask` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Socket.IO` &nbsp;·&nbsp; `AES-256 E2EE`
+
+*Role: Security Researcher (2024–2025)*
+
+---
+
+### 🎵 Eddy — Premium Discord Bot
+> *"The Only Bot Your Server Needs"* &nbsp;·&nbsp; `Active`
+
+All-in-one Discord powerhouse combining **music + AI reasoning + security.**
+
+- 🎶 **320kbps Lavalink v4** high-fidelity music streaming
+- 🧠 **GPT + Gemini** AI reasoning and commands
+- 🛡️ **Military-grade AntiNuke** security system
+
+`Python` &nbsp;·&nbsp; `Discord.py` &nbsp;·&nbsp; `Lavalink v4` &nbsp;·&nbsp; `Gemini API`
+
+---
+
+## `> certifications --verified`
+
 <div align="center">
-🏅 CertificationIssuerVerifyGoogle Cybersecurity ProfessionalGoogle / Coursera🔗 LinkGoogle AI EssentialsGoogle / Coursera🔗 LinkPython for CybersecurityCoursera🔗 LinkEthical HackingCoursera🔗 LinkCloud Engineer Learning PathCoursera🔗 LinkMicrosoft Cybersecurity AnalystMicrosoft / Coursera🔗 Link
+
+| 🏅 Certification | Issuer | Verify |
+|:---|:---|:---:|
+| Google Cybersecurity Professional | Google / Coursera | [🔗 Link](https://coursera.org/share/ecb4df6ca75427e9c8620c72e32d63bb) |
+| Google AI Essentials | Google / Coursera | [🔗 Link](https://coursera.org/share/6b7890acdb6497e31440cb5d04eefea7) |
+| Python for Cybersecurity | Coursera | [🔗 Link](https://coursera.org/share/fc696c870b1a9cb3839e9704a35713c7) |
+| Ethical Hacking | Coursera | [🔗 Link](https://coursera.org/share/9a4e1a8b0e87aa20d9608f19c70f5101) |
+| Cloud Engineer Learning Path | Coursera | [🔗 Link](https://coursera.org/share/89c5105dd9481a8391066dc15d0e8a21) |
+| Microsoft Cybersecurity Analyst | Microsoft / Coursera | [🔗 Link](https://coursera.org/share/b9f49a5190ea2ca4b02ef5a65badecf7) |
+
 </div>
 
-> stats --github
+---
+
+## `> stats --github`
+
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojKumar-ind001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b35&text_color=c9d1d9&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojKumar-ind001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+
 <br/><br/>
+
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojKumar-ind001&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=8ab8cc&dates=8ab8cc" />
+
 <br/><br/>
+
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojKumar-ind001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&area_color=00d4ff" />
+
 </div>
 
-> current_focus
-pythonclass ManojKumar:
+---
+
+## `> current_focus`
+
+```python
+class ManojKumar:
     def __init__(self):
         self.name       = "Manoj Kumar  (aka Golu)"
         self.role       = "System-Thinking AI Automation + Cybersecurity Engineer"
@@ -194,16 +293,31 @@ pythonclass ManojKumar:
         print("Automation without security is dangerous.")
         print("Security without automation doesn't scale.")
         print("I don't fix bugs — I find where boundaries break.")
+```
 
-> connect --with-me
+---
+
+## `> connect --with-me`
+
 <div align="center">
-PlatformHandle📧 Emailcontact@manojinfo.in🌐 Portfoliomanojinfo.in💻 GitHub@ManojKumar-ind001📸 Instagram@golu.650
+
+| Platform | Handle |
+|:---:|:---:|
+| 📧 **Email** | [contact@manojinfo.in](mailto:contact@manojinfo.in) |
+| 🌐 **Portfolio** | [manojinfo.in](https://www.manojinfo.in) |
+| 💻 **GitHub** | [@ManojKumar-ind001](https://github.com/ManojKumar-ind001) |
+| 📸 **Instagram** | [@golu.650](https://www.instagram.com/golu.650/) |
+
 <br/>
 
-🚀 Open for: AI Automation · Cybersecurity Projects · Full-Stack Dev · Discord Bots · n8n Workflows
+> 🚀 **Open for:** AI Automation · Cybersecurity Projects · Full-Stack Dev · Discord Bots · n8n Workflows
 
 <br/>
-Show Image
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManojKumar-ind001&color=00d4ff&style=flat-square&label=Profile+Views)
+
 <br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a1628,100:0d0d1a&height=140&section=footer&text=Built%20with%20System%20Thinking&fontSize=22&fontColor=00d4ff&fontAlignY=55&desc=%22Age%20doesn't%20matter%20%E2%80%94%20depth%20of%20system%20thinking%20and%20scale%20of%20automation%20defines%20you.%22&descAlignY=78&descSize=13&descColor=8ab8cc" />
+
 </div>
